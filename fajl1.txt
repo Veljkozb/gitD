@@ -2,3 +2,4 @@ probbba1
 izmena na branchA
 izena na githubu
 izmena na main grani 
+izmena opet u main
